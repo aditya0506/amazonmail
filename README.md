@@ -1,0 +1,2 @@
+# amazonmail
+CHECKER AMAZON VALID
